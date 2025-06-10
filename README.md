@@ -39,6 +39,8 @@ if you want to use this follow the steps below:
 | `enable_kill_on_error` | If set to `true`, scan stops after hitting `max_errors`.                                                  |
 | `max_errors`           | Max number of allowed request errors before exiting (if kill is enabled).                                 |
 
+### Output Example
+![output.png](img/output.png)
 
 ### TODO
 - Add CLI
